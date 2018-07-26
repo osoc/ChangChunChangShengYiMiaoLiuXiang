@@ -1,19 +1,16 @@
-# fuckcqcs
+# 长春长生疫苗流向数据
 
 [![Build Status](https://img.shields.io/github/stars/fuckcqcs/fuckcqcs.svg)](https://github.com/fuckcqcs/fuckcqcs)
 [![Build Status](https://img.shields.io/github/forks/fuckcqcs/fuckcqcs.svg)](https://github.com/fuckcqcs/fuckcqcs)
 [![Build Status](https://img.shields.io/badge/README-English-yellow.svg)](README_EN.md)
 
 ## 前言
-本文首发于个人的公众号和v2ex，事先也没想到会有这么多人关注。
+本项目Fork自 https://github.com/fuckcqcs/fuckcqcs
 
-由于本人文案水平不高，原先文中对此次疫苗事件背景的描述并不严谨的措辞。
+## 郑重声明（新添加的）
+本项目内容将去除（原项目中）包含个人感情色彩的词汇或观点，力求公正公开公平的整理数据。虽然我也很想说Fu\*k！
 
-v2ex账号因为没验证手机，也登陆不上了。所以后续更新基本会在github。
-
-本文观点从技术讨论出发，尽量客观中立。
-
-## 郑重声明 
+## 郑重声明 (原来的)
 
 - 数据年份是2016至2018年间的数据，
     - 每个省份一个数据，仅以能找到的最新的数据为主
