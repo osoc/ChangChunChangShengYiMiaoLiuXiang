@@ -1,8 +1,7 @@
 # 长春长生疫苗流向数据
 
-[![Build Status](https://img.shields.io/github/stars/fuckcqcs/fuckcqcs.svg)](https://github.com/fuckcqcs/fuckcqcs)
-[![Build Status](https://img.shields.io/github/forks/fuckcqcs/fuckcqcs.svg)](https://github.com/fuckcqcs/fuckcqcs)
-[![Build Status](https://img.shields.io/badge/README-English-yellow.svg)](README_EN.md)
+[![Build Status](https://img.shields.io/github/stars/fuckcqcs/fuckcqcs.svg)](https://github.com/osoc/ChangChunChangShengYiMiaoLiuXiang)
+[![Build Status](https://img.shields.io/github/forks/fuckcqcs/fuckcqcs.svg)](https://github.com/osoc/ChangChunChangShengYiMiaoLiuXiang)
 
 ## 前言
 本项目Fork自 https://github.com/fuckcqcs/fuckcqcs
